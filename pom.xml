@@ -89,7 +89,7 @@
     <repository>
       <id>nexus-maven</id>
       <name>Nexus Maven</name>
-      <url>http://172.16.111.31:30081/repository/maven-releases/</url>
+      <url>http://172.16.100.156:30081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 
